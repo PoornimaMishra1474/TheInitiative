@@ -90,7 +90,7 @@ header::before {
     align-items: center;
     padding: 5px;
     background-color: rgb(175, 80, 80);
-    background-image: url("../img2.webp") ;
+    background-image: url("img2.webp") ;
     background-size: cover;
 }
 /* .CellPhone img{
