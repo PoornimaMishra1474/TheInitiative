@@ -1,0 +1,37 @@
+/* contact section  */
+.contact input{
+    width: 80%;
+}
+.navbar{
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 190px;
+}
+.navbar ul li a {
+    font-size: 20px;
+}
+.description{
+    font-size: 20px;
+}
+.contact textarea{
+    width: 80%;
+}
+/* gadgets */
+.gadgets{
+    flex-wrap: wrap;
+    flex-direction:column;
+    height: 1500px;
+}
+.gadgets div{
+    width: 80%;
+}
+.gadgets img{
+flex-wrap: wrap;
+display: block;
+width: 100px;
+height: auto;
+}
+.center{
+    animation: none;
+}
