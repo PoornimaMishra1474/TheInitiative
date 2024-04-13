@@ -15,7 +15,7 @@ h1 {
 
 .descriptionn{
     color: aliceblue;
-    background-image: url("../img1.webp");
+    background-image: url("img1.webp");
     height: 250px;
 }
 .logo img {
@@ -139,7 +139,7 @@ header::before {
 
 }
 .contact{
-    background-image: url("../img2.webp");
+    background-image: url("img2.webp");
 }
 .contact input{
     width: 334px;
